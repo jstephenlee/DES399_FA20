@@ -2,7 +2,7 @@
 <h2> Processing code for DES399: Creative Coding </h2>
  
 
-This content for this course is divided into 15 section based on the structure of [Learning Processing](http://learningprocessing.com/) by Daniel Shiffman. 
+This content for this course is divided into 15 sections based on the structure of [Learning Processing](http://learningprocessing.com/) by Daniel Shiffman. 
 
 1. Introduction
 1. Interactivity and Variables
