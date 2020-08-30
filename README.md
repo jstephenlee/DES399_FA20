@@ -7,15 +7,15 @@ This content for this course is divided into 15 section based on the structure o
 1. Introduction
 1. Interactivity and Variables
 1. Conditionals and Loops
-4. Functions
-5. Objects + Exporting
-6. Arrays
-7. Algorithms
-8. Mathematics
-9. Translation and Rotation
-10. Debugging and Libraries
-11. Images
-12. Video
-13. Text
-14. Data
-15. Sound
+1. Functions
+1. Objects + Exporting
+1. Arrays
+1. Algorithms
+1. Mathematics
+1. Translation and Rotation
+1. Debugging and Libraries
+1. Images
+1. Video
+1. Text
+1. Data
+1. Sound
