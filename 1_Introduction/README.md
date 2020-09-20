@@ -7,14 +7,14 @@ Tips
 * Use the Processing IDE to help you identify errors in your code
 
 
-###Shapes
+### Shapes
 We can create basic shapes using prewritten functions.
 
 ```rect (0, 0, 100, 200);``` produces a rectangle with its upper left corner at (0, 0) with a width of 100 and a height of 200
 
 ```ellipse (0, 0, 100, 100);``` produces an ellipse (in this case a circle) with a center of (0, 0) and a width and height of 100
 
-###Color
+### Color
 Color can be specified with multiple values. 
 
 ```fill (0);```
@@ -32,7 +32,7 @@ Strokes and fills can be turned off with the following:
 
 ```noFill();```
 
-###Assignment
+### Assignment
 As practice, try to recreate a painting by Josef Albers or Piet Mondrian
 
 ![albers](https://arthur.io/img/art/0000017344a1ecd26/josef-albers/homage-to-the-square-soft-spoken/large-2x/josef-albers--homage-to-the-square-soft-spoken.jpg)
