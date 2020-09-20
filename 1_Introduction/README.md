@@ -16,4 +16,4 @@ produces a red fill—when three values are used for color, the numbers correspo
 As practice, try to recreate a painting by Josef Albers or Piet Mondrian
 
 ![albers](https://arthur.io/img/art/0000017344a1ecd26/josef-albers/homage-to-the-square-soft-spoken/large-2x/josef-albers--homage-to-the-square-soft-spoken.jpg)
-![mondrian](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg/1202px-Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg)
+![mondrian](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg/481px-Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg)
