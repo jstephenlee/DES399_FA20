@@ -7,10 +7,10 @@ li
 
 Color can be specified with multiple values. 
 
-'''fill (0);'''
+```fill (0);```
 produces a black fill
 
-fill (255);
+```fill (255);```
 produces a white fill
 
 fill (255, 0, 0);
