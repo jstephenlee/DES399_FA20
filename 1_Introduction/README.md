@@ -7,7 +7,7 @@ li
 
 Color can be specified with multiple values. 
 
-fill (0); U+000D
+'''fill (0);'''
 produces a black fill
 
 fill (255);
