@@ -19,3 +19,5 @@ This content for this course is divided into 15 sections based on the structure 
 1. Text
 1. Data
 1. Sound
+
+Students enrolled in this course should upload their homework assignments to the class page on OpenProcessing. 
