@@ -1,7 +1,7 @@
 
 This section introduces the basics of Processing. We will learn how to code basic shapes and forms.
 
-We can create basic shapes using prewritten functions
+We can create basic shapes using prewritten functions.
 ```rect (0, 0, 100, 200);``` produces a rectangle starting at (0, 0) with a width of 100 and a height of 200
 ```ellipse (0, 0, 100, 100);``` produces an ellipse (in this case a circle) with a center of (0, 0) and a width and height of 100
 
