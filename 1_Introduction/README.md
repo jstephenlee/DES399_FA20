@@ -1,14 +1,20 @@
 
-This section introduces the basics of Processing. We will learn how to code basic shapes and forms.
+This section introduces the basics of Processing. You can download it [here](https://processing.org/). We will learn how to code basic shapes and forms.
 
-In general, case matters but spaces do not.
+Tips
+* In general, case matters but spaces do not.
+* End function calls with a ```;```
+* Use the Processing IDE to help you identify errors in your code
 
+
+###Shapes
 We can create basic shapes using prewritten functions.
 
 ```rect (0, 0, 100, 200);``` produces a rectangle with its upper left corner at (0, 0) with a width of 100 and a height of 200
 
 ```ellipse (0, 0, 100, 100);``` produces an ellipse (in this case a circle) with a center of (0, 0) and a width and height of 100
 
+###Color
 Color can be specified with multiple values. 
 
 ```fill (0);```
@@ -26,6 +32,7 @@ Strokes and fills can be turned off with the following:
 
 ```noFill();```
 
+###Assignment
 As practice, try to recreate a painting by Josef Albers or Piet Mondrian
 
 ![albers](https://arthur.io/img/art/0000017344a1ecd26/josef-albers/homage-to-the-square-soft-spoken/large-2x/josef-albers--homage-to-the-square-soft-spoken.jpg)
