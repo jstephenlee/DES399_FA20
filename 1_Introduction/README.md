@@ -15,4 +15,4 @@ produces a red fill—when three values are used for color, the numbers correspo
 
 As practice, try to recreate a painting by Josef Albers or Piet Mondrian
 
-![albers](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.khanacademy.org%2Fhumanities%2Fart-1010%2Fpost-war-american-art%2Fpostwar-abstract-art%2Fa%2Falbers-homage-to-the-square&psig=AOvVaw0Cqfo9pAW7yjYyp3GGQwk_&ust=1600703210268000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODalKmK-OsCFQAAAAAdAAAAABAD)
+![albers](https://cdn.kastatic.org/ka-perseus-images/88e51ec8bb97d592055cfad6a0e7412bc1c01261.jpg)
