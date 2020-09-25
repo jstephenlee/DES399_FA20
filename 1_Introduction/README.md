@@ -2,7 +2,8 @@
 This section introduces the basics of Processing. You can download it [here](https://processing.org/). We will learn how to code basic shapes and forms.
 
 **Tips**
-* In general, case matters but spaces do not.
+* Spelling matters
+* Case matters but spaces do not.
 * End function calls with a ```;```
 * Use the Processing IDE to help you identify errors in your code
 
