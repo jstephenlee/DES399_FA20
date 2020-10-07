@@ -1,4 +1,4 @@
-Functions allow us to create modular and resuable structures.
+Functions allow us to create modular and reusable structures.
 
 Three parts
 * Return type (void, int, float, String, etc.)
