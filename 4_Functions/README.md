@@ -6,8 +6,8 @@ Three parts
 * Arguments (values that are passed into a function)
 \-Parameters are variables declarations inside the function definition
 
-```returnType functionName(parameters){\```\
-```//execute this code\```\
+```returnType functionName(parameters){\```<br/>
+```//execute this code\```<br/>
 ```}```
 
 ## Assignment
