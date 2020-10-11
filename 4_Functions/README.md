@@ -6,10 +6,10 @@ Three parts
 * Arguments (values that are passed into a function)
 \-Parameters are variables declarations inside the function definition
 
-```returnType functionName(parameters){\```
-```//execute this code\```
+```returnType functionName(parameters){\```\
+```//execute this code\```\
 ```}```
 
 ## Assignment
 
-
+Write two functions and use them in both a pattern sketch and a drawing tool sketch.
