@@ -1,3 +1,5 @@
+# Functions
+
 Functions allow us to create modular and reusable structures.
 
 Three parts
