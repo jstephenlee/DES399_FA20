@@ -18,7 +18,7 @@ void setup() {
   //initialize hwaves array
   for (int i=0; i<hwaves.length; i++) {
     //  color c = color(random(255), random(255), random(255));
-    color c = color (map(i, 0, waves.length, 0, 255), map(i, 0, waves.length, 150, 20), 200);
+    color c = color (map(i, 0, hwaves.length, 0, 255), map(i, 0, hwaves.length, 150, 20), 200);
     int num=50;
     float sizer=height/num;
     hwaves[i]= new HWave (width/2, sizer*i, sizer*2, PI/8*i, .01, num, c);
