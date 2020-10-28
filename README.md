@@ -4,7 +4,7 @@
 
 The content for this course is divided into 15 sections based on the structure of [Learning Processing](http://learningprocessing.com/) by Daniel Shiffman. 
 
-Video tutorials are available on [YouTube] (https://www.youtube.com/user/jstephenlee). 
+Video tutorials are available on [YouTube](https://www.youtube.com/user/jstephenlee). 
 
 1. Introduction
 1. Interactivity and Variables
