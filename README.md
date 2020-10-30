@@ -6,20 +6,20 @@ The content for this course is divided into 15 sections based on the structure o
 
 Video tutorials are available on [YouTube](https://www.youtube.com/user/jstephenlee). 
 
-1. Introduction
-1. Interactivity and Variables
-1. Conditionals and Loops
-1. Functions
-1. Objects + Exporting
-1. Arrays
-1. Algorithms
-1. Mathematics
-1. Translation and Rotation
-1. Debugging and Libraries
-1. Images
-1. Video
-1. Text
-1. Data
-1. Sound
+01. Introduction
+02. Interactivity and Variables
+03. Conditionals and Loops
+04. Functions
+05. Objects + Exporting
+06. Arrays
+07. Algorithms
+08. Mathematics
+09. Translation and Rotation
+10. Debugging and Libraries
+11. Images
+12. Video
+13. Text
+14. Data
+15. Sound
 
 Students enrolled in this course should upload their homework assignments to the class page on OpenProcessing. 
