@@ -12,7 +12,7 @@ void setup() {
 }
 
 void draw() {
-  img.loadPixels();
+img.loadPixels();
 
   noStroke();
   // Begin loop for columns

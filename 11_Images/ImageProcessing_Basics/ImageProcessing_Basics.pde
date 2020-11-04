@@ -7,7 +7,7 @@
 
 PImage img;
 int loc;
-int cellsize =20;
+int cellsize =40;
 
 void setup() {
   size(600, 800);
@@ -40,7 +40,7 @@ void draw () {
       float b =blue(img.pixels[loc]);
 
       fill(c);
-      //rect (x, y, cellsize, cellsize);
+      //rect (x, y, cellsize, cellsize); //turn on for image grid
     }
   }
 }
