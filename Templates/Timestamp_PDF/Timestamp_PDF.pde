@@ -1,4 +1,4 @@
-//template for recording PDFS in 3D mode with a timestamp
+//template for recording PDFS with a timestamp
 import processing.pdf.*; //import PDF library
 import java.util.Calendar; //import java library
 
