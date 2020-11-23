@@ -1,6 +1,6 @@
 /*
 fft bars with live mic input
-*/
+ */
 
 
 import processing.sound.*;
@@ -22,9 +22,9 @@ int bands = 512/4;
 void setup() {
   size(512, 360);
 
-  
-  
-   // Start listening to the microphone
+
+
+  // Start listening to the microphone
   // Create an Audio input and grab the 1st channel
   input = new AudioIn(this, 0);
 
@@ -34,7 +34,7 @@ void setup() {
   // Create and patch the FFT analyzer
   fft = new FFT(this, bands);
   //fft.input(song); //swap input from song to input
-  
+
   fft.input(input);
 }
 
@@ -48,9 +48,7 @@ void draw() {
     // The FFT range is between 0 and 1, we map it to pixels
     float y = map(fft.spectrum[i], 0, 1, 0, height)*2;
     //println(fft.spectrum[i]);
-    rect(i*width/bands, height-y-100, width/bands,y);
+    rect(i*width/bands, height-y-100, width/bands, y);
     println(y);
-    
-    
   }
 }

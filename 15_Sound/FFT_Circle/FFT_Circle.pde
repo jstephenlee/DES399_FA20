@@ -42,7 +42,7 @@ void draw() {
     // The FFT range is between 0 and 1, we map it to pixels
     float y = map(fft.spectrum[i], 0, 1, 10, 800);
     //line(width/bands*i, height * 0.75, width/bands*i, y);
-    line(0, 100-noise(t)*50, 0, 100+y*2);
+    line(0, 100-noise(t)*50, 0, 100+y*3);
     noFill();
     //ellipse(0, 200+y, 10, 10);
     popMatrix();
