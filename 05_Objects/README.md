@@ -12,4 +12,4 @@ A Class has four elements
 To use an object
 * Declare an object
 * Initialize object
-* Call methods on objectt
+* Call methods on object
