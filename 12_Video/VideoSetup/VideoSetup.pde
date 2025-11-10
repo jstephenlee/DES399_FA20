@@ -12,7 +12,8 @@ void setup() {
   println(Capture.list()); //show what cameras are available
 
   // Step 3. Initialize Capture object 
-  video = new Capture(this, 640, 360, "FaceTime HD Camera (Built-in)"); //put the camera you want to use in quotes 
+  video = new Capture(this, 640, 360, "FaceTime HD Camera"); //put the camera you want to use in quotes 
+ //video = new Capture(this, 640, 360); // use the default camera
   video.start();
 
 }
