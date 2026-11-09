@@ -20,7 +20,7 @@ void setup() {
   // Initialize columns and rows
   cols = width / videoScale;
   rows = height / videoScale;
-  video = new Capture(this, 80, 45, "FaceTime HD Camera (Built-in)"); //remember to put the camera in quotes
+  video = new Capture(this, 80, 45, "FaceTime HD Camera"); //remember to put the camera in quotes
   video.start();
 }
 
