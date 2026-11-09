@@ -19,7 +19,7 @@ void setup() {
 
   // Step 3. Initialize Capture object via Constructor
   // Use the default camera at 320x240 resolution
-  video = new Capture(this, 640, 360, "FaceTime HD Camera (Built-in)"); //put the camera you want to use in quotes 
+  video = new Capture(this, 640, 360, "FaceTime HD Camera"); //put the camera you want to use in quotes 
   video.start();
   cols = width/cellsize;              // Calculate # of columns
   rows = height/cellsize;
